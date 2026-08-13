@@ -2,6 +2,8 @@
 
 > A retro-nostalgic web app that recreates the magic of watching 90s Indian television — Doordarshan, Mahabharat, Ramayan, vintage cricket, and classic ads — all on an authentic CRT TV room scene, right in your browser.
 
+🌐 **Live site:** [https://nostalgictv.vercel.app/](https://nostalgictv.vercel.app/)
+
 ![Nostalgic TV Screenshot](./image.png)
 
 ---
